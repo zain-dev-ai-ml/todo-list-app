@@ -66,8 +66,9 @@ A simple and responsive To-Do List web application built using **HTML, CSS, and 
 
 ## 👨‍💻 Author
 
-**Zain ul Abidin**
-GitHub: [@zain-dev-ai-ml](https://github.com/zain-dev-ai-ml)
+**Zain Ul Abidin**
+
+GitHub: https://github.com/zain-dev-ai-ml
 
 ---
 
