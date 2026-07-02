@@ -1,7 +1,7 @@
 # todo-list-app
 ---
 
-````md
+
 # 📝 To-Do List App
 
 A simple and responsive To-Do List web application built using **HTML, CSS, and JavaScript**. This project helps users manage their daily tasks efficiently with a clean and interactive interface.
@@ -31,10 +31,10 @@ A simple and responsive To-Do List web application built using **HTML, CSS, and 
 ## App Demo
 
 
-```md
+
 ![To-Do List App Screenshot](images/screenshot1.png)
 ![To-Do List App Screenshot](images/screenshot2.png)
-````
+
 
 
 
